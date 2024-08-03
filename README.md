@@ -1,16 +1,23 @@
-# Hi there 👋
+![I am a Web Developer](https://media.licdn.com/dms/image/D5616AQGDqkNTf6GEDw/profile-displaybackgroundimage-shrink_350_1400/0/1704223854358?e=1727913600&v=beta&t=grqrpS2N3NihqkolDD8V7xboAUrD5bDbHMaFKnouI3k)
 
 
-**mehrab2004/mehrab2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Mehrab Hossain
+#### I am a Web Developer
 
-Here are some ideas to get you started:
+Hey there ! 👋 I'm Mehrab Hossain, a seasoned front-end web developer with a deep passion for programming. With a strong background in HTML, CSS, JavaScript, and React.js, I bring creativity and technical expertise to every project I undertake.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Skills: VUE JS / REACT / JS / HTML / CSS / Bootstrap
+
+- 🔭 I’m currently working on Devounity Soft Solution 
+- 🌱 I’m currently learning React JS 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: mehrab413421@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehrab2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehrab-hossain-webdeveloper-fiverr-devounity/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrab2004&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mehrab2004)  
 
