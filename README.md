@@ -8,18 +8,18 @@ Hey there ! 👋 I'm Mehrab Hossain, a seasoned front-end web developer with a d
 
 #### Key Skills & Videos on Web development:
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
+<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />
+<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />
+<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />
+<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />
+<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />
+<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />
+<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />
+<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />
+<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />
+<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />
+<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />
+<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
 
 <br />
 <br />
